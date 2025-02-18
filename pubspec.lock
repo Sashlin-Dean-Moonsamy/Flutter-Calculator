@@ -53,10 +53,10 @@ packages:
     dependency: "direct main"
     description:
       name: expressions
-      sha256: "451cbcf7c40416f1aed4191f689d3683b1b52675eb4226c344e477f0338856c4"
+      sha256: "308a621b602923dd8a0cf3072793b24850d06453eb49c6b698cbda41a282e904"
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.0"
+    version: "0.2.5+2"
   fake_async:
     dependency: transitive
     description:
@@ -151,10 +151,10 @@ packages:
     dependency: transitive
     description:
       name: petitparser
-      sha256: "1a914995d4ef10c94ff183528c120d35ed43b5eaa8713fc6766a9be4570782e2"
+      sha256: "07c8f0b1913bcde1ff0d26e57ace2f3012ccbf2b204e070290dad3bb22797646"
       url: "https://pub.dev"
     source: hosted
-    version: "4.4.0"
+    version: "6.1.0"
   quiver:
     dependency: transitive
     description:
@@ -163,6 +163,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.2.2"
+  rxdart:
+    dependency: transitive
+    description:
+      name: rxdart
+      sha256: "5c3004a4a8dbb94bd4bf5412a4def4acdaa12e12f269737a5751369e12d1a962"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.28.0"
   sky_engine:
     dependency: transitive
     description: flutter

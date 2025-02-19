@@ -24,6 +24,7 @@ class Calculation {
     };
   }
 
+
   // Convert a map into a HistoryModel object
   factory Calculation.fromMap(Map<String, dynamic> map) {
     return Calculation(
